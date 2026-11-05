@@ -40,9 +40,9 @@ A self-evolving AI workspace. One Go binary that thinks, writes real components 
 Our OpenClaw ecosystem: [project hub](https://aaronwiseai.com/clawuniverse/openclaw-project/) · [agent marketplace](https://aaronwiseai.com/clawuniverse/openclaw-services/agent/) · [knowledgebase](https://aaronwiseai.com/clawuniverse/blog/) · [The OpenClaw Guide](https://aaronwiseai.com/clawuniverse/blog/theopenclawguide/)
 
 ### More from the team
-- **SONDERR**: privacy-first AI workspace with Web3 capabilities, one-command install, runs from localhost
-- **Causal Packet Networks**: research on generating independent parts of an answer in parallel
-- **Redshift drift in LTB cosmology**: reproducible preprint, paper + code + figures in one repo
+- **[SONDERR](https://github.com/dxn111/sonderr)**: privacy-first AI workspace with Web3 capabilities, one-command install, runs from localhost
+- **[Causal Packet Networks](https://github.com/dxn111/causal-packet-networks)**: research on generating independent parts of an answer in parallel
+- **[Redshift drift in LTB cosmology](https://github.com/dxn111/ltb-decaying-drift)**: reproducible preprint, paper + code + figures in one repo
 
 ## 🧰 Stack
 
